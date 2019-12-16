@@ -1,0 +1,30 @@
+[
+  {
+    "label": "What two colors make Purple?",
+    "choices": [
+      {"value": "Red and Green", "correct": false},
+      {"value": "Blue and Red", "correct": true},
+      {"value": "Yellow and Blue", "correct": false},
+      {"value": "Purple and Orange", "correct": false}
+    ]
+  },
+  {
+    "label": "What two colors make Orange?",
+    "choices": [
+      {"value": "Blue and Orange", "correct": false},
+      {"value": "Red and Purple", "correct": false},
+      {"value": "Red and Yellow", "correct": true},
+      {"value": "Green and Red", "correct": false}
+    ]
+  },
+  {
+    "label": "What two colors make Green?",
+    "choices": [
+      {"value": "Blue and Red", "correct": false},
+      {"value": "Yellow and Blue", "correct": true},
+      {"value": "Red and Yellow", "correct": false},
+      {"value": "Yellow and Purple", "correct": false}
+    ]
+  }
+
+]
