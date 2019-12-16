@@ -1,9 +1,9 @@
 [
   {
-    "label": "Maths",
-    "name": "maths",
-    "description": "Questions about maths",
-    "fileName": "maths.json"
+    "label": "Colors",
+    "name": "colors",
+    "description": "Questions about colors",
+    "fileName": "colors.json"
   },
   {
     "label": "French",
